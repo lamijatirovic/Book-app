@@ -1,11 +1,14 @@
-# Technologies Used
+## BOOK application
+A web application that allows users to explore, create, update, delete and menage books and authors.
+
+### Technologies Used
 
 - **MongoDB** – A NoSQL database used for storing application data efficiently.
 - **Express.js** – A minimal and flexible Node.js web application framework used for handling server-side logic and APIs.
 - **React** – A JavaScript library for building responsive and dynamic user interfaces.
 - **Node.js** – A JavaScript runtime environment that allows server-side code execution outside the browser.
 
-# Getting Started
+### Getting Started
 To run this application locally:  
 1. Clone the repository using `https://github.com/lamijatirovic/Book-app.git `.
 2. Install dependencies in root folder and frontend folder by running `npm install`.  
